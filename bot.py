@@ -193,4 +193,3 @@ frase18 = 'si tan solo tuviera novia...'
 
 bot.run(TOKEN)
 
-#No te rias de como programo pls :/
